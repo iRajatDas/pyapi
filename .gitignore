@@ -1,0 +1,5 @@
+server/downloads
+venv
+server/test_main.http
+.vercel
+.vercel.json
